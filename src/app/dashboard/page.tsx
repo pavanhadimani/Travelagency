@@ -12,7 +12,7 @@ const bookings = [
     date: "Sep 15, 2026",
     status: "Confirmed",
     amount: "$3,200",
-    image: "https://images.unsplash.com/photo-1527668752968-14ce70a6c761?q=80&w=400&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?q=80&w=400&auto=format&fit=crop"
   },
   {
     id: "BKG-4451",

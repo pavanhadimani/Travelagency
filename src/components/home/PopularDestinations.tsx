@@ -10,7 +10,7 @@ const destinations = [
   {
     id: "karnataka",
     country: "Karnataka, India",
-    image: "https://images.unsplash.com/photo-1620803511100-36df3f24bf71?q=80&w=1000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1616606484004-5ef3cc46e39d?q=80&w=1000&auto=format&fit=crop",
     description: "Ancient temples, lush coffee plantations, and the vibrant city of Bengaluru.",
     rating: 4.8,
     price: "$600",
@@ -91,7 +91,7 @@ function DestinationCard({ dest, index }: { dest: typeof destinations[0], index:
           sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 25vw"
           className="object-cover group-hover:scale-110 transition-transform duration-700 ease-in-out"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#07121B]/90 via-[#07121B]/20 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-[#07121B]/90 via-[#07121B]/20 to-transparent pointer-events-none" />
         <div className="absolute top-4 right-4 bg-white/10 backdrop-blur-md px-3 py-1 rounded-full flex items-center gap-1 shadow-md border border-white/20">
           <Star className="w-4 h-4 text-[#FFD166] fill-[#FFD166]" />
           <span className="text-sm font-bold text-white">{dest.rating}</span>

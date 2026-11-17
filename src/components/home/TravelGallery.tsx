@@ -7,8 +7,8 @@ import { X, ZoomIn } from "lucide-react";
 
 const images = [
   { id: 1, src: "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=800&auto=format&fit=crop", alt: "Paris, France" },
-  { id: 2, src: "https://images.unsplash.com/photo-1512453979436-5a50c640e5eb?q=80&w=800&auto=format&fit=crop", alt: "Dubai, UAE" },
-  { id: 3, src: "https://images.unsplash.com/photo-1527668752968-14ce70a6c761?q=80&w=800&auto=format&fit=crop", alt: "Swiss Alps" },
+  { id: 2, src: "https://images.unsplash.com/photo-1518684079-3c830dcef090?q=80&w=800&auto=format&fit=crop", alt: "Dubai, UAE" },
+  { id: 3, src: "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?q=80&w=800&auto=format&fit=crop", alt: "Swiss Alps" },
   { id: 4, src: "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?q=80&w=800&auto=format&fit=crop", alt: "Maldives" },
   { id: 5, src: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=800&auto=format&fit=crop", alt: "Kyoto, Japan" },
   { id: 6, src: "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=800&auto=format&fit=crop", alt: "Bali, Indonesia" },

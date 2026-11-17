@@ -28,7 +28,7 @@ const getCategoryData = (slug: string) => {
         {
           id: "manali",
           title: "Majestic Manali Escape",
-          image: "https://images.unsplash.com/photo-1605649487212-4d52293c2f20?q=80&w=1200&auto=format&fit=crop",
+          image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1200&auto=format&fit=crop",
           duration: "6 Days",
           price: "₹18,500",
           rating: 4.8,
@@ -75,7 +75,7 @@ const getCategoryData = (slug: string) => {
       {
         id: "manali",
         title: "Majestic Manali Escape",
-        image: "https://images.unsplash.com/photo-1605649487212-4d52293c2f20?q=80&w=1200&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1200&auto=format&fit=crop",
         duration: "6 Days",
         price: "₹18,500",
         rating: 4.8,
